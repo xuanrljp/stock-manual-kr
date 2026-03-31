@@ -10,7 +10,6 @@ metaLinks:
 
 > **팁:** 매수 원가는 **가중평균법**으로 계산됩니다. 매수할 때마다 시스템이 자동으로 평균 원가(수수료 포함)를 재계산합니다.
 
-\
-![list](../.gitbook/assets/stock_account_transaction_tw.png)
+<br>
 
 <br>

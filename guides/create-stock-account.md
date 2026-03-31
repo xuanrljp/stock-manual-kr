@@ -9,9 +9,10 @@ metaLinks:
 
 주식 계좌는 주식 투자를 기록하기 위한 전용 계좌입니다.
 
-1. **계좌** 페이지로 이동하여 우측 상단의 **＋**를 탭해 새 계좌를 만듭니다.<br>
-2. 계좌 유형으로 **주식**을 선택합니다.\
-   ![list](../.gitbook/assets/stock_account_tw.png)
+1. **계좌** 페이지로 이동하여 우측 상단의 \*\*＋\*\*를 탭해 새 계좌를 만듭니다.<br>
+2.  계좌 유형으로 **주식**을 선택합니다.<br>
+
+    <div align="left"><figure><img src="../.gitbook/assets/stock_account_kr.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
 3. 계좌 이름을 입력합니다 (예: 대만 주식, 미국 주식).
 4.  계좌 통화를 선택합니다.
 

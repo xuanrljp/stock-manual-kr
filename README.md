@@ -1,7 +1,5 @@
 ---
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/Hseb2PqmAac4uS7KJtxo/
+metaLinks: {}
 ---
 
 # 주식 자산 관리 사용 가이드
@@ -14,6 +12,8 @@ metaLinks:
 2. 손익 보고서 — 평가손익 및 수익률 자동 계산, 실현 손익 상세 보고서 제공
 3. 주가 자동 업데이트 — 매일 장 마감 후 최신 시장 가격 자동 수집. 대만, 미국, 일본, 홍콩 등 다수 시장 지원
 4. 자산 통계 — 주식 자산을 다른 계좌와 함께 전체 자산 개요에 통합 표시
+
+<div align="left"><figure><img src=".gitbook/assets/stock_account_detail_kr.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## 사용 가이드
 
